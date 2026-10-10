@@ -1,0 +1,23 @@
+agent: Hello, am I speaking with Rahul Sharma?"
+user: Yes. What is this recording? 
+agent: Yeah, I’m Priya, a virtual assistant calling from Home Credit. This call may be recorded for quality and training; do you have two minutes to talk?
+user: Yes. I have a couple of minutes. 
+agent: As a valued Home Credit customer, you have a pre-approved Loan Against Property offer up to 75 lakh rupees. Could you tell me if the property is residential, commercial, or industrial?
+user: It's a commercial shop jointly owned with my brother and its value is around one quarter. 
+agent: Got it. Do you have the original property documents available for verification?
+user: Yes. Original papers are ready. 
+agent: How much loan amount are you looking to borrow?
+user: I need ninety lakhs. 
+agent: The maximum pre-approved offer is 75 lakh rupees. Would you like to proceed with the maximum eligible amount of 75 lakh rupees?
+user: Yes. Send your flag is fine. 
+agent: Okay, we can proceed with 75 lakh rupees. Are you salaried or self-employed, and do you receive your income in your bank account or via cash?
+user: Yes. I'm solid. 
+agent: Could you tell me whether you’re salaried or self-employed, and whether your income goes into your bank account or is received in 
+user: I 
+agent: cash?
+user: am self employed and my income is in come in my bank account. 
+agent: What’s the approximate current market value of your property?
+user: It's around thirty lakhs. 
+agent: How many years of repayment tenure are you looking for, between 3 and 15 years?
+user: Six years. 
+agent: Congratulations, you meet our preliminary eligibility criteria. Our senior loan expert will call you shortly to discuss the next steps and share the exact interest rates with you. Thank you for choosing Home Credit, have a great day!

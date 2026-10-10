@@ -1,0 +1,7 @@
+agent: Hello, am I speaking with Rahul Sharma?"
+user: Yes. This is Raul. 
+agent: Hi Rahul, I’m Priya calling from Home Credit. Do you have two minutes to talk?
+user: I'm actually having an important meeting right now. I can't talk. 
+agent: I completely understand. What would be a convenient time for us to call you back?
+user: You can call me tomorrow around four PM. 
+agent: Thank you, we’ll call you back tomorrow around four PM. Have a great day!

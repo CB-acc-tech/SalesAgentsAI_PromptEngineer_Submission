@@ -1,0 +1,7 @@
+agent: Hello, am I speaking with Rahul Sharma?"
+user: Yes. Tell me. 
+agent: Yes, Rahul. I’m Priya, a virtual assistant from Home Credit. Do you have two minutes to talk?
+user: Yeah. How couple of minutes. 
+agent: Just about two minutes. As a valued Home Credit customer, you have a pre-approved Loan Against Property offer of up to 75 lakh rupees. Could you tell me if the property is residential, commercial, or industrial?
+user: It's an agricultural farmland. 
+agent: Thank you for sharing the details. Unfortunately, as per our criteria, we cannot proceed with this specific offer at this time. Thank you for your time and have a great day.

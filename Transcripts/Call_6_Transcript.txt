@@ -1,0 +1,18 @@
+agent: Hello, am I speaking with Rahul Sharma?"
+user: Yes. Speaking. 
+agent: Hi Rahul, I’m Priya calling from Home Credit. Do you have two minutes to talk?
+user: Yeah. I have two minutes. 
+agent: As a valued Home Credit customer, you have a pre-approved Loan Against Property offer of up to 75 lakh rupees. Could you please tell me if your property is residential, commercial, or industrial?
+user: It's a residential apartment. 
+agent: Are you the sole owner of the property, or is it jointly owned?
+user: Yeah. I am the sole owner. 
+agent: Do you have the original property documents available for verification?
+user: Yeah. I have the original documents. 
+agent: How much loan amount are you looking to borrow?
+user: I need around thirty five lakhs. 
+agent: Are you salaried or self-employed, and do you receive your income in your bank account 
+user: I am self 
+agent: or via cash?
+user: employed running a grocery store, but all my income is in cash, not in a bank. 
+agent: Thank you for sharing the details. Unfortunately, as per our criteria, we cannot proceed with this specific offer at this time. Thank you for your time and 
+agent: have a great day.
